@@ -19,7 +19,6 @@
     <string name="create_category">Erstelle eine Kategorie</string>
     <string name="credit_card_content_desc">kreditkarten icon</string>
     <string name="date_format">Datumsformat</string>
-    <string name="date_format_key">date_format_key</string>
     <string name="date_from">Datum von</string>
     <string name="date_placeholder">datums platzhalter</string>
     <string name="default_country">DE</string>
@@ -75,4 +74,6 @@
     <string name="welcome">Willkommen!</string>
     <string name="welcome_first_page">Zeiche deine Ausgaben jederzeit auf! Sieh dir auf einen Blick deine Ausgaben pro Tag, Woche oder Monat an!</string>
     <string name="write_external_message">Expense Tracker möchte Dateien erstellen, um deine Ausgabendaten zu exportieren</string>
+    <string name="money_desc">geld icon</string>
+    <string name="saving_money_content_desc">geld sparen icon</string>
 </resources>
